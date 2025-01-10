@@ -24,21 +24,19 @@ justify-content: space-between;
 }
 .two{
     
-    border: none;
-    align-items: center;
     margin-left: 150px;
     border-radius: 20px;
     background: rgb(198, 228, 214);
-    background-image: url(assets/hero.png);
-    background-repeat: no-repeat;
-    background-position: 117px;
+    display: flex;
+    
     
 }
 .five{
     margin-left:150px;
     margin-bottom: 150px;
     padding: 10px 30px 10px 30px;
-    border-radius: 4px;
+    border-radius: 6px;
+    border: none;
     background: rgb(0, 106, 80);
     text-align: center;
   
@@ -49,7 +47,7 @@ justify-content: space-between;
     font-family: Fira Sans;
     font-size: 24px;
     font-weight: 500;
-    padding: 117px 0px 0px 50px ;
+    padding: 50px 0px 0px 50px ;
 
 }
 .four{
@@ -58,7 +56,9 @@ justify-content: space-between;
     font-family: Fira Sans;
     font-size: 56px;
     font-weight: 700px;
-    text-align: left;
     padding: 0px 0px 16px 50px ;
    
+}
+.abba{
+    padding: 64px 60px 150px 60px;
 }
