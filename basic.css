@@ -1,0 +1,64 @@
+.one{
+margin-left: 100px;
+display: flex;
+justify-content: space-between;
+}
+.one .hclass{
+    margin-top: 0px;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: left;
+}
+.one .sclass{
+    width: 100px;
+    height: 12px;
+    display: flex;
+    margin-right: 80px;
+    align-items: center;
+    padding: 10px 20px 10px 20px;
+    border-radius: 4px;
+    border: 1px solid rgb(0, 106, 80);
+    color: rgb(0, 106, 80);
+}
+.two{
+    
+    border: none;
+    align-items: center;
+    margin-left: 150px;
+    border-radius: 20px;
+    background: rgb(198, 228, 214);
+    background-image: url(assets/hero.png);
+    background-repeat: no-repeat;
+    background-position: 117px;
+    
+}
+.five{
+    margin-left:150px;
+    margin-bottom: 150px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 4px;
+    background: rgb(0, 106, 80);
+    text-align: center;
+  
+}
+.three{
+    margin-left: 100px;
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 117px 0px 0px 50px ;
+
+}
+.four{
+    margin-left: 100px;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 56px;
+    font-weight: 700px;
+    text-align: left;
+    padding: 0px 0px 16px 50px ;
+   
+}
