@@ -70,27 +70,219 @@ justify-content: space-between;
     justify-items: center;
 }
 .learn-1{
-   width: 350px; 
-   height: 250px;
+   width: 380px; 
+   height: 280px;
    background: rgba(84, 144, 245, 0.2);
-   border-radius: 5px;
+   border-radius: 8px;
    margin-top: 12PX;
 }
 .learn-2{
-    width: 350px; 
-    height: 250px; 
-    border-radius: 5px;
+    width: 380px; 
+    height: 280px; 
+    border-radius: 8px;
     background: rgb(198, 228, 214);
     margin-top: 12PX;
-    padding: 25px 25px opx 25px;
     margin-left: 350PX;
     margin-right: 350PX;
 }
 .learn-3{
-    width: 350px; 
-    height: 250px; 
-    border-radius: 4px;
+    width: 380px; 
+    height: 280px; 
+    border-radius: 8px;
     background-color: rgb(247, 235, 207);
     margin-top: 12PX;
 }
 
+.img-two{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.img-three{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.img-four{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.htwo{
+    padding: 0px 20px 0px 20px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700;  
+}
+.hthree{
+    padding: 0px 20px 0px 20px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700; 
+}
+.hfour{
+    padding: 0px 20px 0px 20px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 700; 
+}
+.ptwo{
+    padding: 0px 20px 0px 20px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+}
+.pthree{
+    padding: 0px 20px 0px 20px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+}
+.pfour{
+    padding: 0px 20px 0px 20px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+}
+.batwo{
+    width: 120px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 8px;
+    background-color:rgb(84, 144, 245);
+    border: none;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+}
+.bafour{
+    width: 120px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: rgb(255, 194, 57);
+    border: none;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+}
+.bathree{
+    width: 120px;
+    height: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 8px;
+    background-color:rgb(9, 161, 92);
+    border: none;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 600;
+}
+.header-two{
+    margin-left: 150px;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+}
+.header-p{
+    margin-left: 150px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+}
+.head-3{
+    margin-left: 150px;
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+.pthree-3{
+    margin-left: 159px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+}
+.divdiva{
+    width: 1280px;
+     height: 402px;
+     gap: 32;
+     padding:48px;
+     background-color: rgb(255, 255, 255); ;
+     border-radius: 24px;
+     margin-left: 180px;
+    display: flex;
+   
+}
+.sate{
+    width: 408px;
+    height: 306px;
+    border-radius: 12px;
+    margin-top: 50px;
+    
+
+}
+.hfour-sate{
+    padding-left: 32px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+}
+.logo{
+    padding-left: 32px;
+}
+.twop{
+    margin-left: 32px;
+    display: flex;
+}
+.time{
+    padding-left: 20px;
+}
+.content{
+    margin-left: 32px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+}
+.baton-read{
+    width: 120px;
+    height: 35px;
+    margin-left: 32px;
+    background-color: rgb(0, 106, 80);
+    border-radius: 4px;
+    border: none;
+    color:rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+}
+.divdiva-two{
+    width: 1280px;
+    height: 402px;
+    display: flex;
+    gap: 32;
+    padding:48px;
+    background-color: rgb(255, 255, 255); ;
+    border-radius: 24px;
+    margin-left: 150px;
+}
+.div-class{
+    width:1600px ;
+    height: 400px;
+
+    background-color: rgb(255, 255, 255);;
+}
