@@ -216,7 +216,7 @@ justify-content: space-between;
     font-weight: 400;
 }
 .divdiva{
-    width: 1280px;
+    width: 1600px;
      height: 402px;
      gap: 32;
      padding:48px;
@@ -271,7 +271,7 @@ justify-content: space-between;
     font-weight: 600;
 }
 .divdiva-two{
-    width: 1280px;
+    width: 1600px;
     height: 402px;
     display: flex;
     gap: 32;
@@ -285,4 +285,121 @@ justify-content: space-between;
     height: 400px;
 
     background-color: rgb(255, 255, 255);;
+}
+.header-top{
+    margin-right: 200px;
+}
+.header-last{
+    display: flex;
+    margin-top: 0px;
+    margin-left: 900px;
+}
+.peragrap{
+    width: 1304px;
+    height: 48px;
+    margin-right: 100px;
+}
+.text{
+    width: 1100px;
+    margin: 0px;
+    margin-top: 30px;
+    display: flex;
+    margin-left: 450px;
+    border-radius: 8px;
+    border: none;  
+    
+}
+.bat1{
+    width: 1000px;
+    height: 100px;
+    border-radius: 8px;
+    border: none; 
+    margin-right: 40px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 25px 25px 25px 25px;
+    
+}
+.bat2{
+    width: 1000px;
+    height: 100px;
+    border-radius: 8px;
+    border: none; 
+    margin-right: 40px;
+    color: rgba(14, 14, 14, 0.8);
+    background: rgb(198, 228, 214);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 25px 25px 25px 25px;
+}
+.bat3{
+    width: 1000px;
+    height: 100px;
+    border-radius: 8px;
+    border: none; 
+    margin-right: 40px;
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 25px 25px 25px 25px;
+}
+.bat4{
+    width:1000px;
+    height: 100px;
+    margin-right: 40px;
+    border-radius: 8px;
+    border: none; 
+    color: rgba(14, 14, 14, 0.8);
+    font-family: Fira Sans;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 25px 25px 25px 25px;
+}
+.header-last{
+    color: rgb(14, 14, 14);
+   font-family: Fira Sans;
+   font-size: 40px;
+   font-weight: 700;
+}
+.paragrap{
+    width: 1104px;
+    height: 48px;
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 400px;
+}
+.lastbat{
+
+}
+
+.kotai{
+   margin-top: 40px;
+   margin-bottom: 30px;
+   margin-left: 500px;
+   width: 1000px;
+   height: 64px;
+   text-align: center;
+   
+   font-family: Fira Sans;
+   font-size: 20px;
+   font-weight: 400;
+}
+.donebat{
+    width: 151px;
+    height: 56px;
+    margin-left: 950px;
+    justify-items: center;
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    background: rgb(0, 106, 80);
+    border-radius: 8px;
+    border: none ;
 }
