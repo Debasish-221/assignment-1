@@ -15,6 +15,7 @@ justify-content: space-between;
     width: 100px;
     height: 12px;
     display: flex;
+    font-weight: 150;
     margin-right: 80px;
     align-items: center;
     padding: 10px 20px 10px 20px;
@@ -23,7 +24,8 @@ justify-content: space-between;
     color: rgb(0, 106, 80);
 }
 .two{
-    
+    width: auto;
+    height: auto;
     margin-left: 150px;
     border-radius: 20px;
     background: rgb(198, 228, 214);
@@ -62,3 +64,33 @@ justify-content: space-between;
 .abba{
     padding: 64px 60px 150px 60px;
 }
+.part-two{
+    margin-left: 150px;
+    display: flex;
+    justify-items: center;
+}
+.learn-1{
+   width: 350px; 
+   height: 250px;
+   background: rgba(84, 144, 245, 0.2);
+   border-radius: 5px;
+   margin-top: 12PX;
+}
+.learn-2{
+    width: 350px; 
+    height: 250px; 
+    border-radius: 5px;
+    background: rgb(198, 228, 214);
+    margin-top: 12PX;
+    padding: 25px 25px opx 25px;
+    margin-left: 350PX;
+    margin-right: 350PX;
+}
+.learn-3{
+    width: 350px; 
+    height: 250px; 
+    border-radius: 4px;
+    background-color: rgb(247, 235, 207);
+    margin-top: 12PX;
+}
+
